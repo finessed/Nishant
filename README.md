@@ -1,2 +1,0 @@
-# Nishant
-Ewallet Project
